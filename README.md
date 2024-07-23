@@ -1,8 +1,25 @@
+**VDBTest Mobile App**
+<!-- Overview -->
+VDBTest is a mobile application that allows users to browse a list of books and view detailed information about each book. The app also features a filter screen where users can filter the books by title and category.
+
+<!-- Features -->
+**Home Screen:** Displays a list of books with title, thumbnail, and category. The list is paginated and filterable by category.
+**Filter Screen:** Allows users to filter the books by title and category.
+**Book Details Screen:** Displays detailed information about a book.
+**API Integration:** Fetches book data from a mock API endpoint.
+
+<!-- Tech Stack -->
+**React Native:** Latest version
+**React Navigation:** For navigating between screens
+**TypeScript:** For type safety
+**Context API:** For state management
+**Jest:** For unit testing
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
